@@ -1,6 +1,6 @@
 ---
 name: scientific-plots
-description: Make or restyle a scientific matplotlib figure for a paper, talk or poster: shared style sheet, colour, labelling and clutter rules, and a checklist before showing it.
+description: Make or restyle a scientific matplotlib figure for a paper, talk or poster, with a shared style sheet, rules for colour, labels and clutter, and a checklist before showing it.
 ---
 
 # Making a scientific plot
