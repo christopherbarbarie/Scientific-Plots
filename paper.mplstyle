@@ -1,0 +1,10 @@
+font.family        : serif
+mathtext.fontset   : dejavuserif
+font.size          : 16
+axes.linewidth     : 1.2
+xtick.direction    : in
+ytick.direction    : in
+xtick.major.size   : 5
+ytick.major.size   : 5
+legend.frameon     : False
+savefig.dpi        : 300
